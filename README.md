@@ -11,5 +11,5 @@
 <img width="1058" height="365" alt="{CEB985CE-E8FC-4EAB-A412-5623D2F90A4E}" src="https://github.com/user-attachments/assets/a766318b-4bcc-484e-9b67-bdb42d121679" />
 6. Какова роль ТЗ после разработки программы 
 <img width="1065" height="368" alt="{61D05BD8-F3DE-4396-8603-733FC2752FA5}" src="https://github.com/user-attachments/assets/5824e90a-173c-4d31-ab3b-a68b7e7b1619" />
-7.Что описывает раздел «Назначение программы» в ТЗ?
+7. Что описывает раздел «Назначение программы» в ТЗ?
 <img width="1064" height="367" alt="{15B835C2-0220-4EB9-8FA9-DE54748DBBD6}" src="https://github.com/user-attachments/assets/3876ee21-20f4-467b-89ba-5f2ca438249c" />
